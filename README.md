@@ -15,5 +15,5 @@ The user can play this game again (by clicking on 'Again!' button). If the user 
 If the user can't guess the right number in 10 attempts, then he will lose.
 
 ![App Screenshot](./img/Screenshot_1.png)
-![App Screenshot](./img/Screenshot_1.png)
-![App Screenshot](./img/Screenshot_1.png)
+![App Screenshot](./img/Screenshot_2.png)
+![App Screenshot](./img/Screenshot_3.png)
