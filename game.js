@@ -21,7 +21,7 @@ document.querySelector(".check").addEventListener("click", () => {
     } else if (guess == randomNumberPc) {
         //? Tahmin dogruysa
         message.textContent = "Congratulations you got it! 🏆"
-        document.querySelector("body").style.backgroundColor = "green"
+        document.querySelector("body").style.backgroundImage = "url('./img/celebration.jpg')"
         document.querySelector(".number").textContent = randomNumberPc
 
         //? En yüksek skoru tahmin et
