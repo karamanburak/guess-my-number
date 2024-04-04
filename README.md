@@ -2,7 +2,7 @@
 
 GuessMyNumber is a game which is developed using HTML, CSS and JavaScript. This is a small JavaScript project for beginners which includes DOM manipulation.
 
-- <a href="https://karamanburak.github.io/Guess-My-Number/" rel="noFollow">Access the finished project online</a>
+- <a href="https://karamanburak.github.io/guess-my-number/" rel="noFollow">Access the finished project online</a>
 
 ## About this Game
 
